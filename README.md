@@ -33,10 +33,7 @@ model.add(Dense(units=1))
 ## 🚀 How to Use
 1. Clone this repository.
 2. Install required dependencies.
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
+3. Run the code.
 4. Train the model and visualize the predictions.
 
 ## 🔥 Future Improvements
