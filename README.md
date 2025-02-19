@@ -16,7 +16,6 @@ This project utilizes historical stock price data of **GE Aerospace** from **Jan
 
 ## 🏗️ Model Architecture
 - **BiLSTM Layers:** Multiple stacked layers for better learning of sequential dependencies.
-- **Dropout Layers:** Regularization to prevent overfitting.
 - **Dense Layer:** Final output layer to predict the next opening price.
 
 ```python
